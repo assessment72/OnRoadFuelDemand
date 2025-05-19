@@ -25,8 +25,8 @@
 
     <!-- القيم المتعلقة بـ Back4App -->
     <string name="back4app_server_url">https://parseapi.back4app.com/</string>
-    <string name="back4app_app_id">peROutvpqDlCgNdgiNetp9Hxbq7I0mrO9opwnyHX</string>
-    <string name="back4app_client_key">Q7UfdIiC2thrVXAIWECSWESksiUCyJ5SKhi0wV0t</string>
+    <string name="back4app_app_id">xDXtGWv1EQMoZm8QhyULVTQjNvNc2hd4W1bNeQVY</string>
+    <string name="back4app_client_key">ABOvWAudDOzsmN6jrVuS6HQdKaltr0TSuGGaEe37</string>
 
     <!-- قيم تسجيل المستخدم -->
     <string name="label">التسجيل</string>
